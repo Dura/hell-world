@@ -1,4 +1,4 @@
-master test
+merge test
 branch test
 # hell-world
 just try
