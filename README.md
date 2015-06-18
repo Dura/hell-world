@@ -1,3 +1,4 @@
+no-ff test
 merge test
 branch test
 # hell-world
