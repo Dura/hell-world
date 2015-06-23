@@ -1,4 +1,4 @@
-####add a link <www.baidu.com>
+####add a link [Test](http://www.baidu.com)
 no-ff test
 ==========
 merge test
